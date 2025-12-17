@@ -1,0 +1,1 @@
+Aqui nesse projeto será publicado meu progresso em C#, será guardado exemplos de códigos, possiveis anotações, o curso que estou usando como aprerndizado é ministrado por Nélio Alves na plataforma Udemy fique avontade para acompanhar o progresso.
